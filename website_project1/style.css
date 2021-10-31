@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(39, 39, 39);
+    /* background-image: url(images/Inn\ of\ the\ Seventh\ Ray\ dining\ room\ night.jpg); */
+    background-image: url(17Napa1-superJumbo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+}
+
+nav {
+    background-color:rgba(0, 0, 0, 0.514);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.349);
+    height: 100px;
+}
+
+h1 {
+    font-size: 84px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif; 
+    
+}
+
+p {
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif; 
+
+}
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer p {
+    font-size: 10px;
+    text-align: center;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.maps {
+    margin-left: 200px;
+}
